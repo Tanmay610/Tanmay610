@@ -13,7 +13,7 @@
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=Tanmay610&theme=dark&hide_border=false&cache_seconds=1)
+![](https://streak-stats.demolab.com/?user=Tanmay610&theme=dark&hide_border=false&cache_seconds=1&date_format=j%20M%5B%20Y%5D&cache_bust=20260525)
 
 <br/>
 
