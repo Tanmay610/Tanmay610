@@ -13,7 +13,7 @@
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=Tanmay610&theme=dark&hide_border=false&cache_seconds=1&date_format=j%20M%5B%20Y%5D&cache_bust=20260525)
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmay610&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 
 <br/>
 
