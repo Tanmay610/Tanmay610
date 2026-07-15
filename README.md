@@ -11,9 +11,3 @@ AI & Future Tech Engineering student passionate about Artificial Intelligence, a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Tanmay610&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanmay610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tanmay610&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Tanmay610&icon=0&color=0)]
